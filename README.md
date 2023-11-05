@@ -2,6 +2,7 @@
 
 ![image](https://github.com/SpooDerS/hyprdracula/assets/26696457/e6dd708d-93e9-4c7d-9a51-d932be0c8c12)
 ![image](https://github.com/SpooDerS/hyprdracula/assets/26696457/19eb22a9-b51d-443d-98a6-d0e43f15760d)
+![image](https://github.com/SpooDerS/hyprdracula/assets/26696457/1c614c19-24b8-4a07-a4d5-5cf368469fc5)
 
 
 # hyprdracula
