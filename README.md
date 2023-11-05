@@ -1,3 +1,9 @@
+![image](https://github.com/SpooDerS/hyprdracula/assets/26696457/5e18671a-99e3-45fb-acb0-7abb3f14c835)
+
+![image](https://github.com/SpooDerS/hyprdracula/assets/26696457/e6dd708d-93e9-4c7d-9a51-d932be0c8c12)
+![image](https://github.com/SpooDerS/hyprdracula/assets/26696457/19eb22a9-b51d-443d-98a6-d0e43f15760d)
+
+
 # hyprdracula
 (sorry for poor formatting I dont know how readmes work here)
 I have added this for inspirational purposes and this is not a guide but rather how my personal rice is built. 
